@@ -1,0 +1,15 @@
+{
+    "name": "kaysoft/phppostgres",
+    "description": "A simple php server",
+    "authors": [{
+        "name": "kayroy247",
+        "email": "okunladekayode@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "phppostgres\\": "app/"
+        }
+    }
+
+}
